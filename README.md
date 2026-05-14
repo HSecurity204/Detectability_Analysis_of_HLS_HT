@@ -12,3 +12,5 @@ This paper advances the research on this new Trojan variant (called T-HAC) by de
 
 **[3]** A. Sengupta et al., “M-HLS: Malevolent High-Level Synthesis for Watermarked Hardware IPs,” _IEEE ESL_, vol. 16 (4), pp. 497-500, 2024. 
 
+
+**_Note:_** Here, '_VHDL Code and Corresponding Netlist Files for Different IP Designs_' file contains all HLS Trojan infected IP designs's VHDL Code and corresponding generated Netlist files. 
