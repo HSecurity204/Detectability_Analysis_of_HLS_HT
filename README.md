@@ -4,6 +4,8 @@ Depending on various Trojan payloads, multiple variants of HLS Trojans exist suc
 
 This paper advances the research on this new Trojan variant (called T-HAC) by designing four novel Trojan infected IP design circuits (T-FIR, T-Blur, T-DCT, and T-LPF), followed by their FPGA implementation. 
 
+
+
 **[1]** A. Sengupta et al.,  “T HAC: Time Sensitive HLS Trojan Attack for Affecting Co ntroller Timing Signal of Hardware IP Designs,” _IEEE ESL_, Accepted 2026.
 
 **[2]** A. Sengupta et al., “HLS Trojan Tampering Attack of IP Designs for Power Drainage using Timer-Sensitive Trojan Trigger based Automated Logic-Transformation,” _IEEE ESL_, doi: 10.1109/LES.2026.3656894, 2026. 
